@@ -1,3 +1,4 @@
 requests
 pygame
 from io import BytesIO
+pillow
