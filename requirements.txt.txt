@@ -1,7 +1,4 @@
 requests
 pygame
-mixer
-from io import BytesIO
+tkinter
 pillow
-difflib
-unittest
